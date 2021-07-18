@@ -1,0 +1,6 @@
+Credentials cache: API:C3CCDB74-714C-4646-A31B-037F4BE592DE
+        Principal: izareb@42.FR
+
+  Issued                Expires               Principal
+Jun 28 11:03:44 2021  Jul  5 11:03:44 2021  krbtgt/42.FR@42.FR
+Jun 28 11:03:45 2021  Jul  5 11:03:44 2021  HTTP/student-storage-2.42.fr@42.FR
